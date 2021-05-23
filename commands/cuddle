@@ -1,0 +1,44 @@
+{
+  "name": "cuddle",
+  "description": "yua.commands.cuddle.description",
+  "links": [
+    "https://media1.tenor.com/images/fd40fe3e4d96c53efc3a6fa8c4a151a5/tenor.gif"
+
+"https://media1.tenor.com/images/d0c2e7382742f1faf8fcb44db268615f/tenor.gif?itemid=5853736"
+
+"https://media1.tenor.com/images/1a65319302b9e1c86a99a39e9a81084e/tenor.gif?itemid=3553099"
+
+"https://media1.tenor.com/images/5ccc34d0e6f1dccba5b1c13f8539db77/tenor.gif?itemid=17694740"
+
+"https://media1.tenor.com/images/85f48bfe2846e8cad93009ca8dba0e9a/tenor.gif?itemid=16498141"
+
+"https://media1.tenor.com/images/5e007281145725639ae2e182a7f734d8/tenor.gif?itemid=11742921"
+
+"https://media1.tenor.com/images/a829b33d49f61a042728c06347bddd57/tenor.gif?itemid=5166505"
+
+"https://media1.tenor.com/images/daffa3b7992a08767168614178cce7d6/tenor.gif?itemid=15249774"
+
+"https://media1.tenor.com/images/4a211d5c5d076ad8795d8a82f9f01c29/tenor.gif?itemid=13221038"
+
+"https://media1.tenor.com/images/34c8301eb098140b519ffd24f52fe6df/tenor.gif?itemid=7571425"
+
+"https://media1.tenor.com/images/45895aa6fcd2f5b8a49993aa8167eb98/tenor.gif?itemid=18833698"
+
+"https://media1.tenor.com/images/dde82580027e6d33b32b52a6f890c389/tenor.gif?itemid=21666437"
+
+"https://media1.tenor.com/images/d1ce5cc985a6584602ab3502a4f39312/tenor.gif?itemid=21666431"
+
+"https://media1.tenor.com/images/e24208849b823192550411ddb783c643/tenor.gif?itemid=21666433"
+
+"https://media1.tenor.com/images/0b3ad34413ffd613054b1d9a50f154c2/tenor.gif?itemid=21666434"
+
+"https://media1.tenor.com/images/3e7d14c0b2c0fc626f9193209acce057/tenor.gif?itemid=21666436"
+
+"https://media1.tenor.com/images/f064ffb895ea454fcabd3206aa99da12/tenor.gif?itemid=21666432"
+  ],
+  "aliases": [],
+  "responses.towards": "yua.commands.cuddle.responses.towards",
+  "responses.want": "yua.commands.cuddle.responses.want",
+  "counters.towards": "yua.commands.cuddle.counters.towards",
+  "counters.want": "yua.commands.cuddle.counters.want"
+}
